@@ -1,0 +1,81 @@
+{
+    "quotes": [
+      {
+        "id": 0,
+        "quote": "Science is a way of thinking much more than it is a body of knowledge.",
+        "author": "Carl Sagan",
+        "known_for": "astronomer, astrophysicist, and science communicator"
+      },
+      {
+        "id": 1,
+        "quote": "All science is either physics or stamp collecting.",
+        "author": "Ernest Rutherford",
+        "known_for": "physicist and chemist"
+      },
+      {
+        "id": 2,
+        "quote": "Imagination is more important than knowledge.",
+        "author": "Albert Einstein",
+        "known_for": "theoretical physicist and Nobel laureate"
+      },
+      {
+        "id": 3,
+        "quote": "The good thing about science is that it's true whether or not you believe in it.",
+        "author": "Neil deGrasse Tyson",
+        "known_for": "astrophysicist and science communicator"
+      },
+      {
+        "id": 4,
+        "quote": "We are all connected; To each other, biologically. To the earth, chemically. To the rest of the universe atomically.",
+        "author": "Neil deGrasse Tyson",
+        "known_for": "astrophysicist and science communicator"
+      },
+      {
+        "id": 5,
+        "quote": "Somewhere, something incredible is waiting to be known.",
+        "author": "Carl Sagan",
+        "known_for": "astronomer, astrophysicist, and science communicator"
+      },
+      {
+        "id": 6,
+        "quote": "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.",
+        "author": "Louis Pasteur",
+        "known_for": "microbiologist and chemist"
+      },
+      {
+        "id": 7,
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "known_for": "philosopher"
+      },
+      {
+        "id": 8,
+        "quote": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
+        "author": "Albert Einstein",
+        "known_for": "theoretical physicist and Nobel laureate"
+      },
+      {
+        "id": 9,
+        "quote": "The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'",
+        "author": "Isaac Asimov",
+        "known_for": "science fiction writer and biochemist"
+      },
+      {
+        "id": 10,
+        "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+        "author": "Thomas Edison",
+        "known_for": "inventor and businessman"
+      },
+      {
+        "id": 11,
+        "quote": "The best way to predict the future is to invent it.",
+        "author": "Alan Kay",
+        "known_for": "computer scientist"
+      },
+      {
+        "id": 12,
+        "quote": "To every action there is always opposed an equal reaction.",
+        "author": "Isaac Newton",
+        "known_for": "physicist and mathematician"
+      }]
+}

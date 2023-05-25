@@ -1,0 +1,64 @@
+{
+  "quotes": [
+    {
+      "id": 0,
+      "author": "Linus Torvalds",
+      "quote": "Talk is cheap. Show me the code.",
+      "known_for": "Creating the Linux kernel and being the initial developer of the Git version control system."
+    },
+    {
+      "id": 1,
+      "author": "Bill Gates",
+      "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+      "known_for": "Co-founding Microsoft and playing a key role in the development of the personal computer revolution."
+    },
+    {
+      "id": 2,
+      "author": "Steve Jobs",
+      "quote": "Everybody in this country should learn to program a computer, because it teaches you how to think.",
+      "known_for": "Co-founding Apple and helping to revolutionize the personal computer, music, and mobile phone industries."
+    },
+    {
+      "id": 3,
+      "author": "Grace Hopper",
+      "quote": "The most damaging phrase in the language is: 'It's always been done that way.'",
+      "known_for": "Her pioneering work in computer science, including helping to develop early programming languages and playing a key role in the development of COBOL."
+    },
+    {
+      "id": 4,
+      "author": "Alan Turing",
+      "quote": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+      "known_for": "His groundbreaking work in computer science and cryptography, including helping to develop the concept of a programmable digital computer."
+    },
+    {
+      "id": 5,
+      "author": "Donald Knuth",
+      "quote": "The best way to predict the future is to invent it.",
+      "known_for": "His work in computer science and mathematics, including developing the TeX computer typesetting system and writing the multi-volume book series 'The Art of Computer Programming.'"
+    },
+    {
+      "id": 6,
+      "author": "Ada Lovelace",
+      "quote": "The analytical engine has no pretensions to originate anything. It can do whatever we know how to order it to perform.",
+      "known_for": "Her work in computer science and mathematics, including developing the first algorithm intended to be processed by a machine and recognizing the potential for computers to do more than just basic calculations."
+    },
+    {
+      "id": 7,
+      "author": "Bjarne Stroustrup",
+      "quote": "In C++ it's harder to shoot yourself in the foot, but when you do, you blow off your whole leg.",
+      "known_for": "Developing the C++ programming language and for his work in object-oriented programming."
+    },
+    {
+      "id": 8,
+      "author": "Larry Wall",
+      "quote": "There's more than one way to do it.",
+      "known_for": "Creating the Perl programming language and for his work in computer science and linguistics."
+    },
+    {
+      "id": 9,
+      "author": "Margaret Hamilton",
+      "quote": "Software engineering is the part of computer science which is too difficult for the computer scientist.",
+      "known_for": "Her work as a computer scientist and software engineer, including developing software for the Apollo space program and helping to popularize the term 'software engineering.'"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+.form {
+    max-width: 800px;
+    margin:0 auto ;
+}
+/* 
+label {
+    position: relative;
+    padding: 10px 20px;
+    margin: 20px 0;
+    display: block;
+}
+
+span {
+    position: absolute;
+    padding-left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: transform .2s linear;
+    font-size: 12px;
+}
+textarea:focus + span,input:focus + span {
+    transform: translateY(-60px) scale(1.55);
+} */
